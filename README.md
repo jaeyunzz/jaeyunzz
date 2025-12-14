@@ -20,4 +20,28 @@
  </div>
 </div>
 
+<table align="center">
+  <tr>
+    <td><img src="https://ytcards.demolab.com/?id=xKCek6_dB0M&title=Taylor+Swift+-+Teardrops+On+My+Guitar&lang=en&timestamp=1245110400&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=217" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=8xg3vE8Ie_E&title=Taylor+Swift+-+Love+Story&lang=en&timestamp=1245110400&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=236" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=nN6VR92V70M&title=Taylor+Swift+-+The+Story+Of+Us&lang=en&timestamp=1306281600&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=266" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=AgFeZr5ptV8&title=Taylor+Swift+-+22&lang=en&timestamp=1363132800&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=243" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://ytcards.demolab.com/?id=wyK7YuwUWsU&title=Taylor+Swift+-+New+Romantics&lang=en&timestamp=1460505600&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=261" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=tCXGJQYZ9JA&title=Taylor+Swift+-+Delicate&lang=en&timestamp=1520726400&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=234" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=Dkk9gvTmCXY&title=Taylor+Swift+-+You+Need+To+Calm+Down&lang=en&timestamp=1560729600&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=210" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=K-a8s8OLBSE&title=Taylor+Swift+-+cardigan&lang=en&timestamp=1595548800&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=274" /></td>
+  </tr>
+
+  <tr>
+    <td><img src="https://ytcards.demolab.com/?id=RsEZmictANA&title=Taylor+Swift+-+willow&lang=en&timestamp=1607644800&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=252" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=b1kbLwvqugk&title=Taylor+Swift+-+Anti-Hero&lang=en&timestamp=1666310400&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=309" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=q3zqJs7JUCQ&title=Taylor+Swift+-+Fortnight+(feat.+Post+Malone)+(Official+Music+Video)&lang=en&timestamp=1713484800&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=249" /></td>
+    <td><img src="https://ytcards.demolab.com/?id=ko70cExuzZM&title=Taylor+Swift+-+The+Fate+of+Ophelia+%28Official+Music+Video%29&lang=en&timestamp=1759622400&background_color=%23ffffff&title_color=%23000000&stats_color=%23000000&max_title_lines=1&width=250&border_radius=5&border_color=%23000000&border_width=0&duration=238" /></td>
+  </tr>
+</table>
+
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
