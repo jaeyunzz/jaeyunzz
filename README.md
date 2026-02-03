@@ -1,7 +1,7 @@
 ### Hello! I'm John.
 
 💻 This is a System Developer trying <br/>
-🎓 Studied System Development at [SENAI](https://www.sp.senai.br/unidade/saocarlos/) <br/>
+🎓 Studied System Development and currently studying System Development and Analysis at [SENAI](https://www.sp.senai.br/unidade/saocarlos/) <br/>
 👍 Obssesed with Taylor Swift, music, writing and parkour in Minecraft <br/>
 💭 Currently working on some independent projects <br/>
  
