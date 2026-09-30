@@ -2,8 +2,7 @@
 
 💻 This is a System Developer trying <br/>
 🎓 Studied System Development and currently studying System Development and Analysis at [SENAI](https://www.sp.senai.br/unidade/saocarlos/) <br/>
-👍 Obssesed with Taylor Swift, music, writing and parkour in Minecraft <br/>
-💭 Currently working on some independent projects <br/>
+💭 Currently working on some independent projects and looking for a job. <br/>
  
 <div align="center">
  <div style="display:flex; flex-wrap:wrap; gap:1fr; justify-content:left;"></div>
